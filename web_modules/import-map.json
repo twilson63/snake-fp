@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "ramda": "./ramda.js",
+    "redux": "./redux.js"
+  }
+}
